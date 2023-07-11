@@ -1,9 +1,1 @@
-import React from 'react'
-
-function Constant() {
-  return (
-    <div>Constant</div>
-  )
-}
-
-export default Constant
+export const ADD_TO_CART = "ADD_TO_CART"
